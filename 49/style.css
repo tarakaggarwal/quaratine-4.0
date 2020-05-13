@@ -1,0 +1,25 @@
+
+h1{
+    color : green;
+}
+.flexContainerr{
+    display: flex;
+    background-color: darkslateblue;
+}
+.unique{
+display: flex;
+background-color: moccasin;
+width: 600px;
+height: 900px;
+}
+.Tarak{
+text-align:center ;
+background-color: oldlace;
+margin: 5px;
+padding: 3px ;
+}
+.disheartened{
+background-color: mediumaquamarine;
+display: flex;
+justify-content: center;
+}
